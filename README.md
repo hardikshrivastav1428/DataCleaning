@@ -25,7 +25,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 - `titanic.csv`
 - `preprocessing.py` / `notebook.ipynb`
-- `cleaned_data.csv` (optional)
 
 ---
 
